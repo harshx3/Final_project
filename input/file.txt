@@ -1,0 +1,19 @@
+1. 
+  target = 1;
+  startFuel = 1;
+  stations = [];
+  
+2.
+  target = 100;
+  startFuel = 1;
+  stations = [[10,100];
+
+3.
+  target = 100;
+  startFuel = 10;
+  stations = [[10,60],[20,30],[30,30],[60,40]];
+  
+4.
+  target = 60;
+  startFuel = 20;
+  stations = [[20,40],[30,30],[50,30]];
